@@ -25,7 +25,7 @@ make
 
 ## Controls
 
-* **WASD** or **arrow keys** to move
+* **WASD** 
 * **ESC** to exit the game
 
 ## Requirements
